@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **trustFlare.com**
 
-- 👯 I’m looking to collaborate on **Alchemative.com**
-
 - 👨‍💻 All of my projects are available at [www.laibaiqbal.com](www.laibaiqbal.com)
 
 - 💬 Ask me about **react, nextjs and headless CMS**
