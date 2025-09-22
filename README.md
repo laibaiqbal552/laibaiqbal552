@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laibaiqbal552&label=Profile%20views&color=0e75b6&style=flat" alt="laibaiqbal552" /> </p>
 
-- 🔭 I’m currently working on **trustFlare.com**
+- 🔭 I’m currently working on **(https://die-101-nextjs-sanity.vercel.app/)**
 
 - 👨‍💻 All of my projects are available at [www.laibaiqbal.com](www.laibaiqbal.com)
 
